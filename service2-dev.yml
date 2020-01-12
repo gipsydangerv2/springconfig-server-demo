@@ -1,0 +1,5 @@
+service:
+  message: "Hello from Service2 Dev"
+datasource:
+  name: "Maria DB"
+  username: "mariaAdmin"

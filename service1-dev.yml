@@ -1,0 +1,4 @@
+service:
+  message: "Hello from Service1 Dev"
+datasource:
+  name: "SQL"
